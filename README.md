@@ -1,4 +1,4 @@
-# Agent AI Research Assistant
+# AI Agent Research Assistant
 
 This project implements a multi-agent AI system for research assistance, inspired by CrewAI-style architecture. It supports:
 
@@ -52,5 +52,4 @@ The output will be printed in the terminal with color and stored as structured J
     "summary": "...",
     "sources": "https://...",
     "tools_used": ["web_search"],
-    ...
 }
