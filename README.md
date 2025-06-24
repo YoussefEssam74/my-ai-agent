@@ -16,8 +16,9 @@ This project implements a multi-agent AI system for research assistance, inspire
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/multi-agent-ai-assistant.git
-   cd multi-agent-ai-assistant
+   git clone https://github.com/YoussefEssam74/my-ai-agent.git
+cd my-ai-agent
+
    ```
 2. Install dependencies:
 
@@ -51,5 +52,5 @@ The output will be printed in the terminal with color and stored as structured J
     "topic": "...",
     "summary": "...",
     "sources": "https://...",
-    "tools_used": ["web_search"],
+    "tools_used": ["web_search"]
 }
